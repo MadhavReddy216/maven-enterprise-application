@@ -14,7 +14,7 @@
   
   <properties>
 	
-	<sonar.host.url>http://13.232.121.250:9000/projects</sonar.host.url>
+	<sonar.host.url>http://65.2.5.70:9000/projects<projects</sonar.host.url>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
